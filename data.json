@@ -1,0 +1,153 @@
+[
+      {
+        "question": "What is the capital of Australia?",
+        "option1": "Sydney",
+        "option2": "Melbourne",
+        "option3": "Canberra",
+        "option4": "Perth",
+        "correctOption": 3,
+        "category": "Geography",
+        "difficulty": "Easy"
+      },
+      {
+        "question": "Which continent is known as the 'Land of the Rising Sun'?",
+        "option1": "Asia",
+        "option2": "Europe",
+        "option3": "Australia",
+        "option4": "North America",
+        "correctOption": 0,
+        "category": "Geography",
+        "difficulty": "Easy"
+      },
+      {
+        "question": "What gas do plants use for photosynthesis?",
+        "option1": "Oxygen",
+        "option2": "Carbon Dioxide",
+        "option3": "Hydrogen",
+        "option4": "Nitrogen",
+        "correctOption": 1,
+        "category": "Science",
+        "difficulty": "Easy"
+      },
+      {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "option1": "Mars",
+        "option2": "Venus",
+        "option3": "Jupiter",
+        "option4": "Saturn",
+        "correctOption": 0,
+        "category": "Science",
+        "difficulty": "Easy"
+      },
+      {
+        "question": "Which river is the longest in the world?",
+        "option1": "Nile",
+        "option2": "Amazon",
+        "option3": "Mississippi",
+        "option4": "Yangtze",
+        "correctOption": 0,
+        "category": "Geography",
+        "difficulty": "Easy"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "option1": "Au",
+        "option2": "Ag",
+        "option3": "Fe",
+        "option4": "Hg",
+        "correctOption": 0,
+        "category": "Science",
+        "difficulty": "Easy"
+      },
+      {
+        "question": "Which ocean is the largest?",
+        "option1": "Atlantic Ocean",
+        "option2": "Indian Ocean",
+        "option3": "Arctic Ocean",
+        "option4": "Pacific Ocean",
+        "correctOption": 3,
+        "category": "Geography",
+        "difficulty": "Easy"
+      },
+      {
+        "question": "What is the process by which plants make their own food?",
+        "option1": "Respiration",
+        "option2": "Germination",
+        "option3": "Photosynthesis",
+        "option4": "Transpiration",
+        "correctOption": 2,
+        "category": "Science",
+        "difficulty": "Medium"
+      },
+      {
+        "question": "Which mountain is the tallest in the world?",
+        "option1": "Mount Kilimanjaro",
+        "option2": "Mount Everest",
+        "option3": "Mount Fuji",
+        "option4": "Mount McKinley",
+        "correctOption": 1,
+        "category": "Geography",
+        "difficulty": "Medium"
+      },
+      {
+        "question": "What is the formula for water?",
+        "option1": "CO2",
+        "option2": "H2O",
+        "option3": "O2",
+        "option4": "CH4",
+        "correctOption": 1,
+        "category": "Science",
+        "difficulty": "Medium"
+      },
+      {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "option1": "China",
+        "option2": "Japan",
+        "option3": "South Korea",
+        "option4": "Thailand",
+        "correctOption": 1,
+        "category": "Geography",
+        "difficulty": "Medium"
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "option1": "Mars",
+        "option2": "Jupiter",
+        "option3": "Venus",
+        "option4": "Saturn",
+        "correctOption": 1,
+        "category": "Science",
+        "difficulty": "Medium"
+      },
+      {
+        "question": "Which desert is the largest in the world?",
+        "option1": "Sahara Desert",
+        "option2": "Gobi Desert",
+        "option3": "Atacama Desert",
+        "option4": "Kalahari Desert",
+        "correctOption": 0,
+        "category": "Geography",
+        "difficulty": "Medium"
+      },
+      {
+        "question": "What is the smallest particle?",
+        "option1": "Atom",
+        "option2": "Proton",
+        "option3": "Neutron",
+        "option4": "Electron",
+        "correctOption": 0,
+        "category": "Science",
+        "difficulty": "Medium"
+      },
+      {
+        "question": "Which river flows through the Grand Canyon?",
+        "option1": "Colorado River",
+        "option2": "Amazon River",
+        "option3": "Nile River",
+        "option4": "Mississippi River",
+        "correctOption": 0,
+        "category": "Geography",
+        "difficulty": "Medium"
+      }
+     
+    ]
