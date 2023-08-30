@@ -3,12 +3,15 @@ import { Text, View, StyleSheet, FlatList } from 'react-native'
 import { firebase } from '../config'
 import { TouchableOpacity } from 'react-native-gesture-handler';
 
+
 const Playground = ({ route }) => {
 
     const [questions, setQuestion] = useState([]);
     const [selectedOptions, setSelectedOptions] = useState({});
     const [score, setScore] = useState(0)
     const [showResults, setShowResults] = useState(false);
+    const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0); // tracking current question index
+
 
     const { category } = route.params
     useEffect(() => {
@@ -142,7 +145,7 @@ export default Playground
 const styles = StyleSheet.create({
     container:{
         flex: 1,
-        backgroundColor: '#F5F5F5',
+        backgroundColor: '#9370db',
         alignItems: 'center',
         justifyContent: 'center',
     },
